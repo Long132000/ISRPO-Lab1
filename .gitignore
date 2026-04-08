@@ -1,0 +1,5 @@
+# Игнорируем временные файлы Visual Studio
+*/bin/
+*/obj/
+*.user
+*.suo
